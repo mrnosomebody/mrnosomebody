@@ -1,6 +1,3 @@
-# 💫 About Me:
-🔭 I’m currently diving deep into Django and practice, practice, practice<br>👯 I’m looking to collaborate on anything. Wanna smth interesting<br>💬 Ask me about joining your super cool awesome amazing team<br>⚡ Fun fact: I like C++
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sergeybezsonov) 
